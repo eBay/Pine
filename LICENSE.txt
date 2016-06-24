@@ -1,6 +1,6 @@
 Pine: Machine Learning As A Service
 
-Copyright 2012 eBay Software Foundation
+Copyright 2016 eBay Software Foundation
 
 Licensed under the Apache License, Version 2.0 (the "License"), except the R code under src/main/R 
 which is covered under the terms of the GNU General Public License as published by
